@@ -1,0 +1,1 @@
+# resumo-dio-lab-configurando-recursos-em-maquinas-virtuais
